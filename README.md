@@ -1,3 +1,2 @@
-**TopNews**
----
-This is a news website which fetch different category of news.
+# TopNews
+This is React Js based application which can  fetch different category of news.
